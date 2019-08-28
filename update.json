@@ -1,6 +1,5 @@
 {
 	"version" : "2.2.4-MD2-alpha2",
 	"link" : "https://development2.baidupan.com/082901bb/2019/08/28/48ea868115f41f6070b421eeda97255d.apk?st=RELFziHBwcfXjhemsSdqmg&e=1567014227&b=UUZdOQhQB3JTaVRxUGUHZ1FNATMNf1EjVmQOb1I5XzhVdQBfCH4HMAB7BWFXKVVlAXlbSlEUBTFUKlw1B2VfP1F2XToIJgdjU3ZUaQ_c_c&fi=11560122",
-	"repo" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/full.xml.gz",
 	"changes" : "1.全局界面优化\n2.换用模块源地址，加载更迅速\n\n使用Material Design 2设计\n\nby @Krins"
 }
