@@ -1,5 +1,5 @@
 {
 	"version" : "2.2.4-MD2-alpha2",
-	"link" : "https://www.lanzous.com/i5uqthc",
+	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
 	"changes" : "1.全局界面优化\n2.换用模块源地址，加载更迅速\n\n使用Material Design 2设计\n\nby @Krins"
 }
