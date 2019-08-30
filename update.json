@@ -1,5 +1,5 @@
 {
-	"version" : "2.2.4-MD2-beta5",
+	"version" : "2.2.4-MD2-rc1",
 	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
 	"changes" : "2.2.4-MD2-beta5\n\n1.优化加载中弹窗\n2.优化下载页加载按钮及其动画\n3.优化界面切换效率\n\n特别感谢 酷安@微软官 所提供的反馈\n\nby @Krins"
 }
