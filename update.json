@@ -1,5 +1,5 @@
 {
-	"version" : "2.2.4-MD2-C-84B1ED",
+	"version" : "2.2.4-MD2-alpha3",
 	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
-	"changes" : "此次更新仅仅为更新软件主体颜色为#84A7ED\n\n版本号 : 2.2.4-MD2-C-84B1ED \n\n可以忽略本次更新，会考虑加入自定义主题的\n\nby @Krins"
+	"changes" : "1.分离模块和更新的加载\n2.修改PopupMenu的主题\n3.优化关于和支持页面\n4.优化首页顶部TabLayout\n5.优化顶栏搜索框\n6.优化赞赏控件（雾）\n\n特别感谢 酷安@微软官 所提供的反馈\n\nby @Krins"
 }
