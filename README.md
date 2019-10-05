@@ -2,6 +2,7 @@
 
 ##### Material Design 2 版本 EdXposed Installer
 #### 截图预览
+<img src="/screenshot/edxp%20(1).png" alt="图-1：screenShot.gif" width="320px"></img>
 ![edxp1](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(1).png?raw=true)
 ![edxp2](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(2).png?raw=true)
 ![edxp3](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(3).png?raw=true)
