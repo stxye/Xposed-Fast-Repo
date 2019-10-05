@@ -2,15 +2,14 @@
 
 ##### Material Design 2 版本 EdXposed Installer
 #### 截图预览
-<img src="/screenshot/edxp%20(1).png" alt="图-1：screenShot.gif" width="320px"></img>
-![edxp1](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(1).png?raw=true)
-![edxp2](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(2).png?raw=true)
-![edxp3](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(3).png?raw=true)
-![edxp4](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(4).png?raw=true)
-![edxp5](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(5).png?raw=true)
-![edxp6](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(6).png?raw=true)
-![edxp7](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(7).png?raw=true)
-![edxp8](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(8).png?raw=true)
-![edxp9](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(9).png?raw=true)
-![edxp10](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(10).png?raw=true)
-![edxp11](https://github.com/coxylicacid/Xposed-Fast-Repo/blob/master/screenshot/edxp%20(11).png?raw=true)
+<img src="/screenshot/edxp%20(1).png" width="320px"></img>
+<img src="/screenshot/edxp%20(2).png" alt="图-2：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(3).png" alt="图-3：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(4).png" alt="图-4：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(5).png" alt="图-1：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(6).png" alt="图-1：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(7).png" alt="图-1：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(8).png" alt="图-1：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(9).png" alt="图-1：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(10).png" alt="图-1：screenShot.gif" width="320px"></img>
+<img src="/screenshot/edxp%20(11).png" alt="图-1：screenShot.gif" width="320px"></img>
